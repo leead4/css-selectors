@@ -1,0 +1,81 @@
+
+header {
+	background-color: lightgreen;
+	border-style: solid;
+	border-width: 1px;
+	border-color: navy;
+	margin-top: 0;
+	color: pink;
+	font-weight: bold;
+	font-family: Helvetica, sans-serif;
+
+    }
+
+header ul {
+   	list-style-type: none;
+	text-align: center;
+	
+
+    }
+
+header ul li {
+	display: inline;
+	padding: 20px;
+}
+
+
+
+body {
+	background-color: lightblue;
+	text-align: justify-all;
+	margin: 0 5% 0 5%;
+	padding: 0 5px 0 5px;
+}
+/*
+.monthlist ul li {
+	text-align: center;
+	font-family: Verdana;
+	margin: 3%;
+	padding: 1px;
+*/
+
+}
+
+.disabled {
+	color: grey;
+
+}
+
+.disabled a {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+
+}
+
+//family stuff
+
+#blueText {
+	color: blue;
+}
+
+#redText {
+	color: red;
+}
+
+#blueBackground {
+	background-color: blue;
+}
+
+#redBackground {
+	background-color: red;
+}
+
+.promo {
+	font-weight: bold;
+	color: gold;
+	}
+
+
